@@ -29,3 +29,16 @@ The goal is to demonstrate SQL skills through real-world business scenarios inst
 ## Dataset
 
 - Northwind Sample Database
+
+## Project Progress
+
+- [x] KPI Analysis
+- [x] Product Analysis
+- [x] Customer Analysis
+- [ ] Sales Trend Analysis
+- [ ] Advanced Joins
+- [ ] Subqueries
+- [ ] CTE Analysis
+- [ ] Window Functions
+- [ ] Views
+- [ ] Query Optimization

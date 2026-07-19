@@ -6,20 +6,26 @@ This repository contains business-oriented SQL analysis queries created using th
 
 The goal is to demonstrate SQL skills through real-world business scenarios instead of isolated syntax examples.
 
-## Topics
+## Contents
 
-1 - KPI Analysis
-2 - Product Analysis
-3 - Customer Analysis
-4 - Sales Trend Analysis
-5 - Advanced Joins
-6 - Subqueries
-7 - CTE
-8 - Window Functions
-9 - Views
-10- Query Optimization
+1. KPI Analysis
+2. Product Analysis
+3. Customer Analysis
+4. Sales Trend Analysis
+5. Advanced Joins
+6. Subqueries
+7. CTE
+8. Window Functions
+9. Views
+10. Query Optimization
 
-## Database
+## Technologies
 
-Microsoft SQL Server
-Northwind Sample Database
+- Microsoft SQL Server
+- Transact-SQL (T-SQL)
+- SQL Server Management Studio (SSMS)
+- Northwind Sample Database
+- 
+## Dataset
+
+- Northwind Sample Database

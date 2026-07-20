@@ -35,7 +35,7 @@ The goal is to demonstrate SQL skills through real-world business scenarios inst
 - [x] KPI Analysis
 - [x] Product Analysis
 - [x] Customer Analysis
-- [ ] Sales Trend Analysis
+- [x] Sales Trend Analysis
 - [ ] Advanced Joins
 - [ ] Subqueries
 - [ ] CTE Analysis
